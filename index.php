@@ -4,9 +4,9 @@
 ?>
 <section>
 <div class="Nav" id="myNav">
-  <a href="#home" class="active">Home</a>
-  <a href="#news">Sign In</a>
-  <a href="#contact">Sign Up</a>
+  <a href="" class="active">Home</a>
+  <a href="signin.php">Sign In</a>
+  <a href="signup.php">Sign Up</a>
   <a href="javascript:void(0);" class="icon" onclick="Navfuction()">
     <i class="fa fa-bars"></i>
   </a>
